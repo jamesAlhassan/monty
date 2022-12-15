@@ -1,4 +1,4 @@
-#include "monty.h"
+#include "main.h"
 
 /**
 * execute - function that executes the opcode
