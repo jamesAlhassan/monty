@@ -63,7 +63,7 @@ extern bus_t bus;
 
 char *_realloc(char *ptr, unsigned int old_size, unsigned int new_size);
 ssize_t getstdin(char **lineptr, int file);
-
+char  *clean_line(char *content);
 
 
 
